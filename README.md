@@ -9,13 +9,16 @@
 ## Industrial Training Certificate 
 
 <img width="80%" alt="Industrial Certificate" src="https://user-images.githubusercontent.com/78098555/135398761-15b40faa-85a4-4151-b91c-42953d1d9d5d.PNG">
+<hr>
 
+## HackerRank SQL certificate
+
+<img width="80%" alt="Industrial Certificate" src="https://user-images.githubusercontent.com/78098555/135419812-3b1028bb-748f-49e9-b858-ab1831d62718.png">
 <hr>
 
 ## Jovian Data Analysis Certificate
 
 <img width="80%" alt="Jovian Certificate" src="https://user-images.githubusercontent.com/78098555/135398317-6109d7ca-c501-455b-ac89-9765791822e2.png">
-
 <hr>
 
 
